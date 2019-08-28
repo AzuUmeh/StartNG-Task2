@@ -1,0 +1,27 @@
+body {
+    background-color:#6AFF89;
+}
+p {
+    font-family:cursive;
+    color:black;
+}
+.before {
+    color:blue;
+    font-family:'Lucida Sans';
+    font-size:250%;
+}
+h4 {
+    color:indianred;
+    font-family:'Lucida Sans';
+}
+li {
+    color:black;
+    font-family:'Lucida Sans';
+}
+footer {
+    color:black;
+}
+.first {
+    color:blue;
+    font-size:150%;
+}
